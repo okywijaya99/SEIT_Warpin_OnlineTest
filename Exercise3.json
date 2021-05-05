@@ -1,0 +1,33 @@
+//Request:
+{
+	"prefix": "PT",
+	"name": "Sejahtera",
+	"suffix": "Tbk",
+	"industry_id": "1",
+	"employee_size": "500",
+	"street": "Jl.Sudirman kav. 21",
+	"place": "Sudirman Tower",
+	"geograph_id": "100",
+	"phone": "08561290092"
+}
+
+//Response:
+{"url":"http://www.mocky.io/v2/5e4e6fc42f00001f2016a761""} 
+{ 
+"data": { 
+"company_id": 11
+},
+"message": "Resource has been created", 
+"code": "STATUS_CREATED", 
+}
+
+
+
+// Can you explain the logging test with any response json code, for example :
+// - 200 : API OK
+// - 400 : Bad Request
+// - 404 : Not Found
+// - 500 : Internal Server Error
+// - 410 : Unknown Error Code
+// - 503 : Internal error
+
