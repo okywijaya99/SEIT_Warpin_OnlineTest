@@ -20,14 +20,3 @@
 "message": "Resource has been created", 
 "code": "STATUS_CREATED", 
 }
-
-
-
-// Can you explain the logging test with any response json code, for example :
-// - 200 : API OK
-// - 400 : Bad Request
-// - 404 : Not Found
-// - 500 : Internal Server Error
-// - 410 : Unknown Error Code
-// - 503 : Internal error
-
